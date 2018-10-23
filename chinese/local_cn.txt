@@ -1,0 +1,421 @@
+_GAMENAME|BLOCKPOST
+_LANGUAGE_TRANSLATION|2018/10/23更新 汉化版本v1.5 联系作者：QQ 1763575579
+_LANGUAGE_NAME|简体中文
+_BONUS_LEFT|下一个奖金 {0}小时 {1}分钟
+_DAY|天
+_COME_EVER_DAY|每天登录游戏并获得奖励
+_CONTINUE|继续
+_COLLECT|拿
+_RECEIVED|你收到
+_REQUIRES_KEY|需要钥匙
+_GOTO_STORE|转到商店
+_USED_KEY|使用钥匙
+_OPEN_CASE_EMUL|打开箱子 (模拟)
+_OPEN_CASE|打开箱子
+_SOLDIER|士兵
+_SERGEANT|中士
+_COMMANDER|指挥官
+_CAPTAIN|队长
+_LEAVE_CLAN|战队等级
+_LEAVE_CLAN_CONFIRM|战队等级 (确认)
+_CANCEL|取消
+_FIND_CLAN|寻找战队
+_CREATE_CLAN|创建战队
+_LOOKFOR|寻找
+_SEARCH|搜索中...
+_CLAN_NAME|战队名字
+_PARTY|队友
+_FOUNDER|队长
+_ADMISSION|进入许可
+_SUBMISSION_FOR_BID|战队邀请需要 10 级
+_CLAN_NOT_ACCEPT|战队邀请关闭
+_APPLY_TO_CLAN|请求加入战队
+_SEND|发送
+_IS_OPEN|开放
+_IS_CLOSE|关闭
+_SHOW_LAST_CLANS|显示最后 25 个战队
+_REBUILD_CLAN|恢复战队
+_CREATURE|创建中...
+_CLAN_CREATION_AVAILABLE|15级才可以创建战队
+_ATTENTION_NAME|提示: 该名称只能包含俄罗斯字母或英语字母<br>允许使用数字和符号 '_' '.'<br>最小名称长度 3 个字符，最大 16 个字符
+_NUMBER_POSTS|消息数:
+_RENAME_CLAN|重命名战队
+_CLAN_STATUS|战队状态
+_CLAN_EXPANSION|战队经验
+_REMOVE_CLAN|解散战队
+_REMOVE_CLAN_CONFIRM|解散战队 (确认)
+_AVAILABLE_RENAME|重命名可用次数:
+_RENAME|重命名
+_RETURN|返回
+_CURRENT_STATUS_CLAN_OPEN|当前战队状态 <color=#FF0>开启</color>
+_CLAN_TAKES_APPLICATION|战队接受会员邀请
+_CURRENT_STATUS_CLAN_CLOSE|当前战队状态 <color=#FF0>关闭</color>
+_CLAN_NOT_ACCEPT_APPLICATION|战队不接受会员邀请
+_CHANGE_STATUS|更改状态
+_CURRENT_NUMBER_SLOTS|当前的位置 <color=#FF0>
+_YOUR_CLAN_MAXIMUM|<color=#0F0>你的战队最多能得到 200 个名额</color>
+_SLOTS_AFTER_EXPANSION|扩展后的名额
+_MAXIMUM_200|(最大 200)
+_COST_OPERATION|操作花费 50 金币!
+_PLACE_WEAPON_CASE|使用 3 个武器进行交换 <color=red>(武器将被永久销毁)</color> 结果你将得到一个特殊箱子
+_PLACE_WEAPON_WEAPON|使用 3 种现代化武器 <color=red>(武器将被永久销毁)</color> 结果你将得到一个改装的武器
+_PLACE_CASE_2_COIN|出售 1 个箱子 <color=red>(箱子将从库存中永久删除)</color> 结果你将得到 2 金币
+_PLACE_CASE_3_COIN|出售 1 个箱子 <color=red>(箱子将从库存中永久删除)</color> 结果你将得到 1 金币
+_PLACE_CASE_1_COIN|出售 1 个箱子 <color=red>(箱子将从库存中永久删除)</color> 结果你将得到 1 金币
+_WAITING_SERVER|等待服务器响应
+_START_DISARMAMENT|开始交换
+_START_UPGRADE_NOT|开始现代化 (在开发者)
+_SALE_WILL_BE|出售将通过
+_START_SALE|开始出售
+_MAP_SAVED|保存地图
+_CONSERVATION|保存地图中...
+_ENABLE_CHAT|启用聊天
+_DISABLE_CHAT|禁用聊天
+_GAME_MENU|游戏菜单
+_BACK_TO_GAME|返回游戏
+_CHANGE_WEAPON|更换武器
+_SAVE_MAP|保存地图
+_EXIT_MAIN_MENU|退出到主菜单
+_SET1|<size=18>背包 1</size>
+_SET2|<size=18>背包 2</size>
+_SET3|<size=18>背包 3</size>
+_PRIMARY|主武器
+_SECONDARY|副武器
+_MELEE|近战
+_BUILDING_BLOCK|方块
+_ADDITIONAL|特殊技能
+_COIN|金币
+_COINS|金币
+_VOICE|声音
+_VOICES|声音
+_DAMAGE|伤害
+_CAGE|弹夹
+_STOCK|弹药
+_RATE_FIRE|射速
+_DISTANCE|射程
+_ACCURACY|精度
+_RELOAD_SPEED|换弹速度
+_RECOIL|后坐力
+_PROPERTIES|穿透力
+_MOBILITY|机动性
+_OVERVIEW|查看
+_WEAR_WEAPON|装备武器
+_REMOVE_WEAPON|卸下武器
+_COLOR_SKIN|皮肤颜色
+_COLOR_EYE|眼睛颜色
+_COLOR_HAIR|头发颜色
+_HAIRSTYLE|发型
+_EYE_TYPE|眼睛
+_BEARD|胡须
+_HAT|帽子
+_BODY|身体
+_PANTS|裤子
+_BOOTS|鞋子
+_BASIC_LVL|基础等级.
+_FRAGS|击杀:
+_PROGRESS|进度
+_WITHOUT_SIGHT|没有瞄具
+_NEW_MAP|新地图
+_IS_LOADING|加载
+_NAME_MAP|地图名字
+_SIZE_MAP|地图大小
+_HEIGHT_MAP|高度
+_CREATE|创建
+_LOAD|加载
+_CHANGE_NAME|更改名字
+_SAVING|保存中...
+_PURCHASE_CHANGE_NAME|购买改名卡 (2 次)
+_BUY|购买
+_REGULAR_TASKS|常规任务
+_ACTIVE_TASKS|活跃任务
+_PROGRESS_ACTIVITIES|始终执行这些任务的进度
+_MUST_SELECT_TASK|你必须选择一个任务来执行它
+_NEW_LVL|新等级
+_REACH_LVL|达到 %param% 等级
+_SHTORM_TROOPER|突击手
+_FRAGS_ASSAULT_RIFLE|使用突击步枪达到 %param% 击杀
+_MADE_IN_RUSSIA|«俄罗斯制造»
+_MADE_IN_RUSSIA2|«俄罗斯制造 2»
+_FRAGS_RUSSIAN_WEAPON|使用俄罗斯武器达到 %param% 击杀
+_SNIPER|狙击手
+_FRAGS_SNIPER_RIFLE|使用狙击步枪达到 1000 击杀
+_SECONDARY_WEAPON|副武器
+_FRAGS_PISTOL|使用手枪达到 300 击杀
+_GIFT_CASE_ANNIVERSARY|周年礼物箱
+_GIFT_KEY_ANNIVERSARY|周年礼物钥匙
+_FRAGS_HEADSHOT|达到 500 爆头
+_VICTORY_DAY|胜利日
+_GIFT_CASE_VICTORYDAY|胜利礼物箱
+_GIFT_KEY_VICTORYDAY|胜利日礼物钥匙
+_VICTORY_CASE|胜利箱
+_FRAGS_ANY_WEAPON_THIS_CASE|<size=14>使用任何武器达到 1000 击杀<br><color=orange>+50% 使用这个箱子武器进度</color></size>
+_GIFT_CASE_HALLOWEEN|万圣节礼物箱
+_GIFT_KEY_HALLOWEEN|万圣节礼物钥匙
+_FRAGS_MELEE_WEAPON|使用近战武器达到 500 击杀
+_HAPPY_NEW_YEAR|新年快乐
+_FRAGS_ANY_WEAPON|使用任何武器达到 1000 击杀
+_REWARD|奖励
+_AWARE_AWARD|获得奖励
+_SELECT_TASK|选择任务
+_SELECTED|选中
+_QUALITY_GRAPHICS|质量
+_SWITCHED_OFF|关闭
+_SWITCHED_ON|开启
+_CENTER|中间
+_LEFT|左边
+_WHITE|白色
+_GREEN|绿色
+_YELLOW|黄色
+_BLUE|蓝色
+_ORANGE|橙色
+_MEAN|普通
+_HIGH|高
+_VERY_HIGH|非常高
+_LOW|低
+_ULTRA|极致
+_RECRUIT|招募
+_COLOR_SIGHT|准心颜色
+_DISPLAY_LIFE|血条位置
+_CHAT_FILTER|聊天过滤
+_NETWORK_SURFACE|网络平滑
+_DEVELOPERS_MODE|开发者模式
+_SCREEN_RESOLUTION|屏幕分辨率
+_DYNAMIC_LIGHTING|动态光源
+_BLICKS|耀光
+_PARTICLES|粒子
+_SMOOTHING|平滑
+_MOTION_BLUR|动态模糊
+_FULL_SCREEN|全屏请按 <color=#FF0>F9</color>
+_MOUSE_SENSITIVITY|鼠标器灵敏度
+_MOUSE_SENSITIVITY_AIM|鼠标器灵敏度 (瞄准)
+_SOUND_VOLUME|音量调节
+_MUSIC_VOLUME|音乐调节
+_REPEAL|取消
+_SAVE|保存
+_SETTINGS_SAVED|保存成功!
+_BACK|返回
+_OFFICIAL_SERVER|官方服务器
+_USER_SERVER|用户服务器
+_BASIC_MODE_GAME|默认的游戏模式和地图
+_MODIFIED_MODE_GAME|自定义游戏模式和用户创建的地图
+_HIDE_FULL_SERVER|隐藏人满服务器
+_HIDE_EMPTY_SERVER|隐藏无人服务器
+_ALL_MODES|所有模式
+_FILTER_TDM|团队死斗
+_FILTER_FFA|自由击杀
+_FILTER_SHOVEL|刀战模式
+_FILTER_ELIMINATION|歼灭行动
+_MODE_TDM|团队死斗
+_MODE_SHOVEL|刀战模式
+_MODE_FFA|自由击杀
+_MODE_TEST|测试模式
+_MODE_ELIMINATION|歼灭行动
+_MODE_INFECTION|生化模式
+_RENDER_DEV|渲染类型
+_RENDER_CASE|渲染情况
+_EDITOR_SKIN|皮肤编辑
+_EDITOR_MAP|地图编辑
+_SQUAD|小队
+_CREATE_SERVER|创建服务器
+_REFRESH_SERVER|刷新列表
+_SERVER|服务器
+_MODE|模式
+_PLAYERS|玩家
+_LEVEL|等级
+_CONNECT|连接服务器
+_TEST_MAP|测试地图
+_LOAD_MAP|加载地图
+_NEW_MAP|新地图
+_NEW_SKIN|新皮肤
+_LOAD_SKIN|加载皮肤
+_EXPA|经验值:
+_LEVEL_PROGRESS|距离下次升级:
+_DEATH|死亡:
+_RATIO|K/D比:
+_ASSIST|助攻:
+_HEADSHOT|爆头:
+_PLAYER|玩家
+_NOT_ENTER_RATING|未评级
+_SHOW|显示
+_WAITING_CONFIRM|等待确认收到物品...
+_THANK_YOU_PURCHASE|感谢你的购买！物品在库存中
+_TRY_AGAIN|发生错误，请稍后再试
+_CASE_CONTAIN_SUBJECTS|这个箱子将会得到下列武器之一:
+_CASE_IN_WORKSHOP|这个箱子能够在武器工坊交换部分获得
+_CASE_JOB|这个箱子可以通过完成任务免费获得
+_AVAILABLE_CASE|可用箱子:
+_SUPPLY THROUGH|重新进货
+_KEY_ONE_OPEN|一次性钥匙用于打开合适的箱子
+_COSTUME_CAN_COMBINED|人物服装 (可与其他衣物搭配使用)
+_OPEN|打开
+_COST|花费:
+_BUY_MORE|购买 +1
+_GOTO|转到
+_NOT_MISS_COIN|没有足够的金币去购买
+_FILL_COINS|增加金币
+_EXIT|退出
+_NO_WEAPON|没有武器	
+_MASTERLY|专横!
+_PERFECTLY|完美!
+_EXCELLENT|卓越!
+_IDEALLY|理想!
+_CLICK_SELECT_WEAPON|按 <color=yellow>E</color> 更换背包
+_WEAPON_CHANGE_REVIVAL|武器将在下次复活时更换
+_NO_AMMO|弹药耗尽
+_WON|获胜
+_NEXT_GAME_WILLBE|下一场比赛即将开始
+_GAME_OVER|游戏结束
+_TEAM_RED_WINS|红方队伍获胜
+_TEAM_BLUE_WINS|蓝方队伍获胜
+_DRAW|平局
+_YOU_WERE_KILLED|击杀者
+_WEAPON|武器
+_SPECIALIZATION|特殊
+_YOU|你
+_ENEMY|敌人
+_HOLD_REDIAL_VIEWING|按住 <color=yellow>H</color> 观看
+_TO_TEAM|(团队)
+_TOTAL|总计
+_WAITING_AUTH|等待授权中...
+_PLAY|开始游戏
+_INVENTORY|库存
+_MENU_WEAPON|武器
+_CHARACTER|角色
+_CASES|箱子
+_PROFILE|玩家资料
+_SHOP|商店
+_KEYS|钥匙
+_SUIT|套装
+_WORKSHOP|武器工坊
+_PARSE|交换
+_UPGRADE|升级
+_BUYING_CASES|出售箱子
+_TASKS|任务
+_COMBAT|战斗
+_BONUSES|奖金
+_RATING|排名
+_OPTIONS|选项
+_GAME|游戏
+_GRAPHICS|图像
+_CONTROL|控制
+_SOUND|声音
+_SELECT_NAME|选择名字
+_COMPLETION|购买金币
+_CLANS|战队
+_MY_CLAN|我的战队
+_FIND_CLAN|寻找战队
+_MESSAGES|消息
+_CLICK_CHANGE_NAME|点击更改名字
+_CLICK_FILL_COINS|点击增加金币
+_CLICK_CONTINUE|点击鼠标继续
+_AUTH_SUCCESSFULLY|授权成功
+_YOU_KILLED_PLAYER|你击杀了队友
+_YOU_KILLED|你击杀
+_SURVIVAL_TIME|生存时间
+_MIN|分钟
+_SERVER_AVAILABLE_WILL_BE|下一个进入服务器的入口将生效
+_NOT_CONNECT_TIMEOUT|连接服务器失败 (超时)
+_PRESERVED|保存!
+_INCORRECT_LENGTH|错误长度
+_MIX_LANGUAGES|混合语言
+_NAME_BUSY|名字已经被使用
+_YOU_TAKE|你来的地方
+_PLACE_RATING|在定级
+_MEMBERS|战队伙伴
+_INCORRECT_CLAN_NAME|不正确的战队名字
+_CLAN_NOT_FOUND|没有找到战队
+_CLAN_FOUND|找到战队
+_NOT_CONNECT_LOST_CONNECTION|连接服务器失败 (失去连接)
+_ONLINE|在线人数:
+_LOADING|加载
+_CLICK_OPEN_ADMIN_MENU_SERVER|按 <color=yellow>K</color> 打开服务器管理员菜单
+_MENU_ADMIN_SERVER|服务器管理员菜单
+_SERVER_CONFIG|服务器配置
+_MAPS_MANAGER|地图管理
+_PLAYERS_MANAGER|玩家管理
+_MAPS_LOADING|加载地图
+_MAPS_AVAILABLE|可用地图列表
+_MAPS_ROTATION|地图循环列表
+_ADD_TO_ROTATION|添加到地图循环列表
+_REQUEST_ADDING_TO_ROTATION|请求添加地图
+_TO_ROTATION|循环
+_REMOVE_FROM_ROTATION|从地图循环列表移除
+_REQUEST_REMOVE_FROM_ROTATION|请求移除地图
+_FROM_ROTATION|循环
+_LAUNCH_MAP|开始地图
+_REQUEST_LAUNCH_MAP|请求开始地图
+_KICK_FROM_SERVER|踢出服务器
+_REQUEST_FOR_KICK_PLAYER|请求提出玩家
+_PERMISSION_CHAT|禁止/允许 聊天
+_REQUEST_SILENCE_PLAYER|请求 禁言/取消禁言 玩家
+_PERMISSION_BUILDING|禁止/允许 建造
+_REQUEST_BUILD_FOR_PLAYER|请求玩家进行建造
+_MODE_GAME|游戏模式
+_VISIBILITY_SERVER|服务器可见度
+_VISIBLE_EVERYONE|任何人
+_HIDDEN|隐藏
+_MODIFIERS|修改
+_ALLOW_BREAK|允许破坏
+_FORBIDDEN_BREAK|禁止破坏
+_ALLOW_BUILD|允许建造
+_FORBIDDEN_BUILD|禁止建造
+_ALLOW_ATTACK|允许攻击
+_FORBIDDEN_ATTACK|禁止攻击
+_LOCAL_MAPS|本地地图
+_MAPS_ON_SERVER|服务器地图
+_REMOVE_MAP|移除地图
+_REQUEST_REMOVE_MAP|请求移除地图
+_SEND_TO_SERVER|发送到服务器
+_DOWNLOAD_FROM_DISK|从硬盘加载
+_REQUEST_PLAYER_TO_CLAN|请求加入战队
+_CLANCHAT|战队聊天
+_PLAYERS|玩家
+_LANGUAGE|语言
+_TAP_CONTINUE|点击继续
+_CROSSPLAY|跨平台服务器
+_FULL|完全
+_CHANGE_TEAM|更换队伍
+_QUICK_PLAY|快速游戏
+_SERVER_LIST|服务器列表
+_LOGOUT|退出配置文件
+_FPS_LIMIT|限制 FPS
+_FIELDOFVIEW|视野
+_SENSITIVITY|灵敏度
+_SENSITIVITY_AIM|灵敏度 (瞄准)
+_LOGIN_GAME|进入游戏
+_LOGIN_VK|通过VK进入
+_ORDER_LIST|指令表
+_CLAN_EXP|战队禁言
+_LEVEL_PROGRESS|等级进展
+_CLAN_FRAGS|战队击杀:
+_CLAN_DEATHS|战队死亡:
+_PLAYER_STATS|玩家状态
+_PLAYER_GAINED|获得经验:
+_UPLOAD_FILES|上传文件
+_ROUND|回合
+_ROUND_WON|回合获胜
+_ROUND_LOSE|回合落败
+_ENEMY_ELIMINATED|消灭敌人
+_ROUND_TIME_END|超出回合时间
+_RESET|重置
+_CHANGE_CONTROL|变更控制
+_FILTER_INFECTION|生化模式
+_PRESET|预设
+_RENDER_DISTANCE|视野距离
+_PERFOMANCE|性能
+_QUALITY|质量
+_PLACE_WEAPON_CASE_STEAM|使用 3 个相同的武器进行交换 <color=red>(武器将被永久销毁)</color> 结果你将得到一个特殊箱子
+_MOVEMENT|移动
+_WEAPONS|武器
+_CHAT|聊天
+_GAMEPLAY|其它
+_FORWARD|前进
+_BACKWARD|后退
+_STRAFE_LEFT|左移
+_STRAFE_RIGHT|右移
+_PREVIOUS_WEAPON|上一个武器
+_ALL_CHAT|聊天 (所有)
+_TEAM_CHAT|队伍聊天
+_CHANGE_SET|更换背包
+_SECOND_ATTACK|额外的攻击按钮
+_CROUCH|蹲下
