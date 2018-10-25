@@ -24,7 +24,7 @@ _CREATE_CLAN|创建战队
 _LOOKFOR|寻找
 _SEARCH|搜索中...
 _CLAN_NAME|战队名字
-_PARTY|队友
+_PARTY|队员
 _FOUNDER|队长
 _ADMISSION|进入许可
 _SUBMISSION_FOR_BID|战队邀请需要 10 级
